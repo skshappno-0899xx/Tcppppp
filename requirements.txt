@@ -1,0 +1,12 @@
+flask
+aiohttp
+pycryptodome
+urllib3
+protobuf>=6.30.0,<7
+requests
+httpx
+psutil
+PyJWT
+protobuf-decoder
+google_play_scraper
+gunicorn
